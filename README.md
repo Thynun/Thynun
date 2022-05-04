@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thynun
+- 👋 Hi, I’m @amal
 - 👀 I’m interested in Devops   
 - 🌱 I’m currently learning linux,aws & Devops 
 - 💞️ I’m looking to collaborate on Learn Devops 
